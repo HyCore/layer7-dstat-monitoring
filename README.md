@@ -6,9 +6,10 @@ How to use it:
 
 1. Open your LocalHost Terminal or Server Terminal (SSH)
 2. git clone https://github.com/JustXrv/layer7-dstat-monitoring.git
-3. cd layer7-dstat-monitoring
-4. npm install
-5. node index.js
+3. Create a folder and drag the file in
+4. cd foldername
+5. npm install
+6. node index.js
 
 Prerequisites:
 
@@ -16,5 +17,3 @@ Prerequisites:
 2. SSH and Root access
 3. Server (VPS, Server Dedicated or Local Host)
 4. U can use this script on all the Linux Distro's without any problem
-
-![](html/img/example.png)
