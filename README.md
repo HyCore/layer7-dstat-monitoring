@@ -1,7 +1,5 @@
 # layer7-dstat-monitoring
 
-![]()
-
 With this script u can simple monitoring the layer 7 traffic (HTTP) of your server or localhost
 
 How to use it: 
@@ -19,3 +17,7 @@ Prerequisites:
 2. SSH and Root access
 3. Server (VPS, Server Dedicated or Local Host)
 4. U can use this script on all the Linux Distro's without any problem
+
+Screen:
+
+![example](https://user-images.githubusercontent.com/66798662/104933397-2630a780-59a9-11eb-9c90-6d0e0dcaa284.PNG)
